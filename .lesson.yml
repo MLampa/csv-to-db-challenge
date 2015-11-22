@@ -1,0 +1,8 @@
+---
+title: "CSV to Database"
+type: "challenge"
+description: "Migrate CSV data to a database"
+visibility: "assign"
+tags: "sql"
+ignore:
+- "csv-to-db.md"
